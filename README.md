@@ -20,9 +20,7 @@ And also, another implementation is avaliable at [DiSCO](https://github.com/Mave
 
 ### Data
 
-The files in `matlab\RobotCar_data` and `matlab\MulRan_data` can help you generate scancontext of radar and lidar submaps. Also, the generation of lidar submaps is included.
-
-In addition, the `evaluate_recall@1` contains the files to calculate the recall@1 for place recognition evaluation.
+The files in `matlab/RobotCar_data` and `matlab/MulRan_data` can help you generate scancontext of radar and lidar submaps. Also, the generation of lidar submaps is included.
 
 ### Training
 The `train_disco_lidar_quad.py` is used for training lidar-to-lidar DiSCO.
@@ -37,7 +35,8 @@ The trained models are listed in the `trained_models` respectively.
 Please use the files in `inference` folder.
 
 ### Evaluation
-todo
+
+In addition, the `matlab/evaluate_recall@1` contains the files to calculate the recall@1 for place recognition evaluation.
 
 ### Case Example
 
