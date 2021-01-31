@@ -4,17 +4,6 @@ This page is the coder of a pre-print, implemented by PyTorch.
 
 If you have some questions on this project, please feel free to contact [Huan Yin](https://yinhuan.site/) `zjuyinhuan@gmail.com` .
 
-If you use our code in an academic work, please cite the following paper:
-
-    @article{xu2020disco,
-        title={DiSCO: Differentiable Scan Context with Orientation},
-        author={Xu, Xuecheng and Yin, Huan and Chen, Zexi and Wang, Yue and Xiong, Rong},
-        journal={arXiv preprint arXiv:2010.10949},
-        year={2020}
-        }
-
-And also, another implementation is avaliable at [DiSCO](https://github.com/MaverickPeter/DiSCO-pytorch).
-
 ### Method
 <img src="https://github.com/ZJUYH/radar-to-lidar-place-recognition/blob/main/image/methods.png" width= 1000>
 
@@ -43,6 +32,19 @@ In addition, the `matlab/evaluate_recall@1` contains the files to calculate the 
 Multi-session place recognition: radar-to-lidar in different days of Mulran-Riverside
 
 <img src="https://github.com/ZJUYH/radar-to-lidar-place-recognition/blob/main/image/case.png" width= 1000>
+
+## Citation 
+
+If you use our code in an academic work, please cite the following paper:
+
+    @article{xu2020disco,
+        title={DiSCO: Differentiable Scan Context with Orientation},
+        author={Xu, Xuecheng and Yin, Huan and Chen, Zexi and Wang, Yue and Xiong, Rong},
+        journal={arXiv preprint arXiv:2010.10949},
+        year={2020}
+        }
+
+And also, another implementation is avaliable at [DiSCO](https://github.com/MaverickPeter/DiSCO-pytorch).
 
 ## TODO
 
