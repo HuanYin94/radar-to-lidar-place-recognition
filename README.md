@@ -36,4 +36,6 @@ todo
 
 ### Case Example
 
+Multi-session place recognition: radar-to-lidar in different days of Mulran-Riverside
+
 <img src="https://github.com/ZJUYH/radar-to-lidar-place-recognition/blob/main/image/case.png" width= 1000>
