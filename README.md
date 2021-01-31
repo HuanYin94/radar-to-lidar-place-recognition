@@ -28,6 +28,8 @@ The `train_disco_radar_quad.py` is used for training radar-to-radar DiSCO.
 
 The `train_joint_radar_lidar.py` is used for training L2L, R2R and R2L jointly based on DiSCO implementation.
 
+The trained models are listed in the `trained_models` respectively.
+
 ### Inference
 Please use the files in `inference` folder.
 
