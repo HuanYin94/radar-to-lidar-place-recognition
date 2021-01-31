@@ -19,7 +19,10 @@ And also, another implementation is avaliable at [DiSCO](https://github.com/Mave
 <img src="https://github.com/ZJUYH/radar-to-lidar-place-recognition/blob/main/image/methods.png" width= 1000>
 
 ### Data
-todo
+
+The files in `matlab\RobotCar_data` and `matlab\MulRan_data` can help you generate scancontext of radar and lidar submaps. Also, the generation of lidar submaps is included.
+
+In addition, the `evaluate_recall@1` contains the files to calculate the recall@1 for place recognition evaluation.
 
 ### Training
 The `train_disco_lidar_quad.py` is used for training lidar-to-lidar DiSCO.
@@ -41,3 +44,7 @@ todo
 Multi-session place recognition: radar-to-lidar in different days of Mulran-Riverside
 
 <img src="https://github.com/ZJUYH/radar-to-lidar-place-recognition/blob/main/image/case.png" width= 1000>
+
+## TODO
+
+Make the original data and lidar filter files avaliable.
