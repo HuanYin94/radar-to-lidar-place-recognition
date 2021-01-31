@@ -4,7 +4,7 @@ This page is the coder of a pre-print, implemented by PyTorch.
 
 If you have some questions on this project, please feel free to contact [Huan Yin](https://yinhuan.site/) `zjuyinhuan@gmail.com` .
 
-If you use our implementation in your work, please cite the following paper:
+If you use our code in an academic work, please cite the following paper:
 
     @article{xu2020disco,
         title={DiSCO: Differentiable Scan Context with Orientation},
