@@ -37,14 +37,14 @@ Multi-session place recognition: radar-to-lidar in different days of Mulran-Rive
 
 If you use our code in an academic work, please cite the following paper:
 
-    @article{xu2020disco,
-        title={DiSCO: Differentiable Scan Context with Orientation},
-        author={Xu, Xuecheng and Yin, Huan and Chen, Zexi and Wang, Yue and Xiong, Rong},
-        journal={arXiv preprint arXiv:2010.10949},
-        year={2020}
+    @article{yin2021radar,
+        title={Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning},
+        author={Yin, Huan and Xu, Xuecheng and Wang, Yue and Xiong, Rong},
+        journal={arXiv preprint arXiv:2102.04960},
+        year={2021}
         }
 
-And also, another implementation is avaliable at [DiSCO](https://github.com/MaverickPeter/DiSCO-pytorch).
+And also, another related implementation is avaliable at [DiSCO](https://github.com/MaverickPeter/DiSCO-pytorch).
 
 ## TODO
 
