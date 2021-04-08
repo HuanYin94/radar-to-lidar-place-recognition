@@ -36,13 +36,14 @@ Multi-session place recognition: radar-to-lidar in different days of Mulran-Rive
 ## Citation 
 
 If you use our code in an academic work, please cite the following paper:
-
+        
     @article{yin2021radar,
-        title={Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning},
-        author={Yin, Huan and Xu, Xuecheng and Wang, Yue and Xiong, Rong},
-        journal={arXiv preprint arXiv:2102.04960},
-        year={2021}
-        }
+      title={Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning},
+      author={Yin, Huan and Xu, Xuecheng and Wang, Yue and Xiong, Rong},
+      journal={Frontiers in Robotics and AI},
+      year={2021},
+      status={Accept}
+      }
 
 And also, another related implementation is avaliable at [DiSCO](https://github.com/MaverickPeter/DiSCO-pytorch).
 
