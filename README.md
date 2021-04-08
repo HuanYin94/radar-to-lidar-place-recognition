@@ -35,7 +35,7 @@ Multi-session place recognition: radar-to-lidar in different days of Mulran-Rive
 
 ## Citation 
 
-If you use our code in an academic work, please cite the following paper:
+If you use our code in an academic work or inspired by our method, please consider citing the following:
         
     @article{yin2021radar,
       title={Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning},
