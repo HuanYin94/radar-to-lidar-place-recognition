@@ -47,6 +47,8 @@ If you use our code in an academic work or inspired by our method, please consid
 
 And also, another related implementation is avaliable at [DiSCO](https://github.com/MaverickPeter/DiSCO-pytorch).
 
+We also propose an end-to-end radar tracking method on lidar maps. Please refer to [RaLL](https://github.com/ZJUYH/RaLL) for details.
+
 ## TODO
 
 Make the original data and lidar filter files avaliable.
