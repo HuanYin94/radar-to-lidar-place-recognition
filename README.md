@@ -1,6 +1,6 @@
 # radar-to-lidar-place-recognition
 
-This page is the coder of a pre-print, implemented by PyTorch.
+This page is the implementation of a pre-print, implemented by PyTorch.
 
 If you have some questions on this project, please feel free to contact [Huan Yin](https://yinhuan.site/) `zjuyinhuan@gmail.com` .
 
