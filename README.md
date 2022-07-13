@@ -2,8 +2,6 @@
 
 This page is the implementation of a pre-print, implemented by PyTorch.
 
-If you have some questions on this project, please feel free to contact [Huan Yin](https://yinhuan.site/) `zjuyinhuan@gmail.com` .
-
 ### Method
 <img src="https://github.com/ZJUYH/radar-to-lidar-place-recognition/blob/main/image/methods.png" width= 1000>
 
